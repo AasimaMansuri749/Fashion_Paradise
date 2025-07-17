@@ -81,9 +81,7 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 <tr>
   <td><img src="Screenshots/homepage.png" width="500"/><br>Home Page</td>
   <td><img src="Screenshots/shoppage.png" width="500"/><br>Product Listing</td>
-</tr>
-<tr>
-  <td><img src="Screenshots/shopbycat.png" width="500"/><br>Product Detail</td>
+  <td><img src="ScreenShots/shopbycat.png" width="500"/><br>Product Detail</td>
 
 </tr>
 <tr>
@@ -99,16 +97,15 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 <table>
 <tr>
   <td><img src="Screenshots/admindashboard" width="500"/><br>Admin Dashboard</td>
-  <td><img src="Screenshots/manage_products.png" width="500"/><br>Manage Products</td>
+  <td><img src="Screenshots/product.png" width="500"/><br>Manage Products</td>
 </tr>
 <tr>
-   <td><img src="Screenshots/category.png" width="500"/><br>Manage Orders</td>
-  <td><img src="Screenshots/manage_orders.png" width="500"/><br>Manage Orders</td>
-  <td><img src="Screenshots/assign_delivery.png" width="500"/><br>Assign Delivery</td>
-</tr>
+   <td><img src="Screenshots/category.png" width="500"/><br>Manage Category</td>
+  <td><img src="Screenshots/adminodetail.png" width="500"/><br> Order Detail</td>
+ </tr>
   <tr>
-  <td><img src="Screenshots/manage_orders.png" width="500"/><br>Manage Orders</td>
-  <td><img src="Screenshots/assign_delivery.png" width="500"/><br>Assign Delivery</td>
+     <td><img src="Screenshots/listofdelivery.png" width="500"/><br>Assign Delivery</td>
+  <td><img src="Screenshots/customer.png" width="500"/><br>Manage Customer</td>
 </tr>
 </table>
 
