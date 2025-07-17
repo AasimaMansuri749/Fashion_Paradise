@@ -72,3 +72,52 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 7. Configure database connection in db.php or equivalent file.
 
 8. Start Apache and MySQL using XAMPP.
+
+## 📸 Screenshots
+
+### 🛍️ Customer View
+
+<table>
+<tr>
+  <td><img src="Screenshots/Screenshot 2025-07-15 192119.png" width="500"/><br>Home Page</td>
+  <td><img src="Screenshots/product_list.png" width="500"/><br>Product Listing</td>
+</tr>
+<tr>
+  <td><img src="Screenshots/product_detail.png" width="500"/><br>Product Detail</td>
+  <td><img src="Screenshots/cart.png" width="500"/><br>Cart Page</td>
+</tr>
+<tr>
+  <td><img src="Screenshots/wishlist.png" width="500"/><br>Wishlist</td>
+  <td><img src="Screenshots/login.png" width="500"/><br>Login Page</td>
+</tr>
+</table>
+
+---
+
+### 🔐 Admin Panel
+
+<table>
+<tr>
+  <td><img src="Screenshots/admin_dashboard.png" width="500"/><br>Admin Dashboard</td>
+  <td><img src="Screenshots/manage_products.png" width="500"/><br>Manage Products</td>
+</tr>
+<tr>
+  <td><img src="Screenshots/manage_orders.png" width="500"/><br>Manage Orders</td>
+  <td><img src="Screenshots/assign_delivery.png" width="500"/><br>Assign Delivery</td>
+</tr>
+</table>
+
+---
+
+### 🚚 Delivery Person Panel
+
+<table>
+<tr>
+  <td><img src="Screenshots/delivery_login.png" width="500"/><br>Delivery Login</td>
+  <td><img src="Screenshots/delivery_dashboard.png" width="500"/><br>Delivery Dashboard</td>
+</tr>
+<tr>
+  <td><img src="Screenshots/delivery_orders.png" width="500"/><br>Assigned Orders</td>
+  <td><img src="Screenshots/update_status.png" width="500"/><br>Update Delivery Status</td>
+</tr>
+</table>
