@@ -23,7 +23,7 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 
 ---
 
-## 🌟 Key Features
+
 
 ## 🌟 Key Features
 
@@ -67,10 +67,8 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 
 5. Create a new database (e.g., fashion_paradise)
 
-6.Import the provided .sql file
+6. Import the provided .sql file
 
-7.Configure database connection in db.php or equivalent file.
+7. Configure database connection in db.php or equivalent file.
 
-Start Apache and MySQL using XAMPP.
-
-Access the project at:http://localhost/Fashion_Paradise-/
+8. Start Apache and MySQL using XAMPP.
