@@ -16,7 +16,7 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 - MySQL
 - phpMyAdmin
 
-###  Tools & APIs
+###  Tools 
 - VS Code
 - GitHub
 - XAMPP (for local hosting)
