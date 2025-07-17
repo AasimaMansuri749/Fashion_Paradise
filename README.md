@@ -85,8 +85,7 @@ Fashion Paradise is a traditional women's clothing e-commerce website that provi
 <tr>
   <td><img src="SreenShots/wishlist.png" width="500"/><br>Wishlist</td>
   <td><img src="SreenShots/cart.png" width="500"/><br>Cart Page</td>
-  <td><img src="SreenShots/login.png" width="500"/><br>Login Page</td>
-</tr>
+  </tr>
 </table>
 
 ---
